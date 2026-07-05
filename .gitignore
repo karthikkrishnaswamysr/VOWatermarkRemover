@@ -4,3 +4,10 @@ _test*/
 .venv/
 __pycache__/
 *_processed.mp4
+/dist/
+/build/
+/testvideos/
+*.mp4
+error_log.txt
+.claude/
+rust-app/target/
